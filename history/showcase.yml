@@ -1,7 +1,7 @@
 url: https://showcase.bgord.me
-status: up
-code: 200
-responseTime: 776
-lastUpdated: 2023-11-21T22:10:55.325Z
+status: down
+code: 502
+responseTime: 619
+lastUpdated: 2023-11-21T22:27:48.376Z
 startTime: 2023-11-21T22:07:37.291Z
 generator: Upptime <https://github.com/upptime/upptime>
