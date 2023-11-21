@@ -4,6 +4,10 @@ repo: statuses
 sites:
   - name: RAOK
     url: https://raok.bgord.me
+  - name: TRACKERS
+    url: https://trackers.bgord.me
+  - name: SHOWCASE
+    url: https://showcase.bgord.me
 
 status-website:
   baseUrl: /statuses
