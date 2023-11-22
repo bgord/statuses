@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/raok.bgord.me.ico",
     "slug": "raok",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.17%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 1518,
-    "timeDay": 3063,
+    "timeDay": 4870,
     "timeWeek": 1518,
     "timeMonth": 1518,
     "timeYear": 1518,
     "dailyMinutesDown": {
-      "2023-11-22": 0
+      "2023-11-22": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://trackers.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/trackers.bgord.me.ico",
     "slug": "trackers",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1520,
-    "timeDay": 2066,
-    "timeWeek": 1520,
-    "timeMonth": 1520,
-    "timeYear": 1520,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 1918,
+    "timeDay": 2991,
+    "timeWeek": 1918,
+    "timeMonth": 1918,
+    "timeYear": 1918,
     "dailyMinutesDown": {
-      "2023-11-22": 0
+      "2023-11-22": 13
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.bgord.me.ico",
     "slug": "showcase",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "98.58%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
     "time": 1419,
-    "timeDay": 2518,
+    "timeDay": 3985,
     "timeWeek": 1419,
     "timeMonth": 1419,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2023-11-22": 0,
+      "2023-11-22": 13,
       "2023-11-21": 9
     }
   }
