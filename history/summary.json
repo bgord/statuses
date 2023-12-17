@@ -4,9 +4,9 @@
     "url": "https://raok.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/raok.bgord.me.ico",
     "slug": "raok",
-    "status": "up",
+    "status": "down",
     "uptime": "95.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "95.14%",
@@ -16,6 +16,7 @@
     "timeMonth": 2507,
     "timeYear": 2507,
     "dailyMinutesDown": {
+      "2023-12-17": 0,
       "2023-12-07": 19,
       "2023-12-03": 396,
       "2023-11-26": 3,
@@ -28,7 +29,7 @@
     "url": "https://trackers.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/trackers.bgord.me.ico",
     "slug": "trackers",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +41,7 @@
     "timeMonth": 2991,
     "timeYear": 2991,
     "dailyMinutesDown": {
+      "2023-12-17": 0,
       "2023-12-03": 376,
       "2023-11-26": 25
     }
