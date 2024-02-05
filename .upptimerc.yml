@@ -19,6 +19,15 @@ sites:
     expectedStatusCodes:
       - 200
       - 429
+      
+  - name: LOBBYGOW
+    url: https://lobbygow.bgord.me/healthcheck
+    method: "GET"
+    headers:
+      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
+    expectedStatusCodes:
+      - 200
+      - 429
 
 status-website:
   baseUrl: /statuses
