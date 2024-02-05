@@ -10,11 +10,11 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "97.08%",
-    "time": 2516,
-    "timeDay": 3725,
-    "timeWeek": 2245,
-    "timeMonth": 2543,
-    "timeYear": 2516,
+    "time": 2527,
+    "timeDay": 3808,
+    "timeWeek": 2348,
+    "timeMonth": 2566,
+    "timeYear": 2527,
     "dailyMinutesDown": {
       "2024-02-02": 26,
       "2024-01-30": 66,
@@ -47,11 +47,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "98.44%",
-    "time": 2709,
-    "timeDay": 2507,
-    "timeWeek": 2471,
-    "timeMonth": 2431,
-    "timeYear": 2709,
+    "time": 2717,
+    "timeDay": 2784,
+    "timeWeek": 2585,
+    "timeMonth": 2457,
+    "timeYear": 2717,
     "dailyMinutesDown": {
       "2024-02-05": 15,
       "2024-01-28": 15,
@@ -63,5 +63,23 @@
       "2023-12-03": 376,
       "2023-11-26": 25
     }
+  },
+  {
+    "name": "LOBBYGOW",
+    "url": "https://lobbygow.bgord.me/healthcheck",
+    "icon": "https://icons.duckduckgo.com/ip3/lobbygow.bgord.me.ico",
+    "slug": "lobbygow",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1826,
+    "timeDay": 1826,
+    "timeWeek": 1826,
+    "timeMonth": 1826,
+    "timeYear": 1826,
+    "dailyMinutesDown": {}
   }
 ]
