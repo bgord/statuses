@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/raok.bgord.me.ico",
     "slug": "raok",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.20%",
     "time": 2220,
     "timeDay": 611,
     "timeWeek": 828,
@@ -70,17 +70,19 @@
     "url": "https://lobbygow.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/lobbygow.bgord.me.ico",
     "slug": "lobbygow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 632,
-    "timeWeek": 869,
-    "timeMonth": 1020,
-    "timeYear": 994,
-    "dailyMinutesDown": {}
+    "time": 984,
+    "timeDay": 573,
+    "timeWeek": 825,
+    "timeMonth": 1003,
+    "timeYear": 984,
+    "dailyMinutesDown": {
+      "2024-03-24": 0
+    }
   }
 ]
