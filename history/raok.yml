@@ -1,7 +1,7 @@
 url: https://raok.bgord.me/healthcheck
-status: up
-code: 429
-responseTime: 611
-lastUpdated: 2024-03-23T23:09:49.372Z
+status: down
+code: 502
+responseTime: 1551
+lastUpdated: 2024-03-24T18:29:34.328Z
 startTime: 2023-11-21T21:58:55.090Z
 generator: Upptime <https://github.com/upptime/upptime>
