@@ -38,6 +38,18 @@ sites:
       - 200
       - 429
 
+  - name: 2048
+    url: https://2048.bgord.me
+    method: "GET"
+    expectedStatusCodes:
+      - 200
+
+  - name: CORDIAN
+    url: https://cordian.bgord.me
+    method: "GET"
+    expectedStatusCodes:
+      - 200
+
 status-website:
   baseUrl: /statuses
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
