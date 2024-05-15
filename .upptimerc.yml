@@ -8,8 +8,8 @@ sites:
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
     expectedStatusCodes:
-      - 200
-      - 429
+      - "200"
+      - "429"
 
   - name: SHOWCASE
     url: https://showcase.bgord.me/healthcheck
@@ -17,8 +17,8 @@ sites:
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
     expectedStatusCodes:
-      - 200
-      - 429
+      - "200"
+      - "429"
 
   - name: TRACKERS
     url: https://trackers.bgord.me/healthcheck
@@ -26,8 +26,8 @@ sites:
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
     expectedStatusCodes:
-      - 200
-      - 429
+      - "200"
+      - "429"
       
   - name: LOBBYGOW
     url: https://lobbygow.bgord.me/healthcheck
@@ -35,20 +35,20 @@ sites:
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
     expectedStatusCodes:
-      - 200
-      - 429
+      - "200"
+      - "429"
 
   - name: 2048
     url: https://2048.bgord.me
     method: "GET"
     expectedStatusCodes:
-      - 200
+      - "200"
 
   - name: CORDIAN
     url: https://cordian.bgord.me
     method: "GET"
     expectedStatusCodes:
-      - 200
+      - "200"
 
 status-website:
   baseUrl: /statuses
