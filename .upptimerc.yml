@@ -38,6 +38,13 @@ sites:
       - 200
       - 429
 
+  - name: CORDIAN
+    url: https://cordian.bgord.me
+    method: "GET"
+    expectedStatusCodes:
+      - 200
+      - 429
+
 status-website:
   baseUrl: /statuses
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
