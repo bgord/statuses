@@ -47,18 +47,19 @@
     "url": "https://showcase.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.bgord.me.ico",
     "slug": "showcase",
-    "status": "up",
-    "uptime": "95.40%",
-    "uptimeDay": "87.89%",
+    "status": "down",
+    "uptime": "95.42%",
+    "uptimeDay": "87.88%",
     "uptimeWeek": "81.76%",
-    "uptimeMonth": "81.45%",
-    "uptimeYear": "95.40%",
-    "time": 2920,
-    "timeDay": 2902,
-    "timeWeek": 3248,
+    "uptimeMonth": "81.53%",
+    "uptimeYear": "95.42%",
+    "time": 2921,
+    "timeDay": 2918,
+    "timeWeek": 3247,
     "timeMonth": 3267,
-    "timeYear": 2920,
+    "timeYear": 2921,
     "dailyMinutesDown": {
+      "2024-08-17": 0,
       "2024-08-16": 175,
       "2024-08-15": 241,
       "2024-08-14": 302,
@@ -78,7 +79,7 @@
       "2024-07-30": 241,
       "2024-07-29": 825,
       "2024-07-28": 327,
-      "2024-07-27": 60
+      "2024-07-27": 27
     }
   },
   {
