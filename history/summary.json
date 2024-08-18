@@ -49,17 +49,17 @@
     "slug": "showcase",
     "status": "up",
     "uptime": "95.47%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "82.79%",
-    "uptimeMonth": "81.62%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "83.71%",
+    "uptimeMonth": "81.60%",
     "uptimeYear": "95.47%",
     "time": 2917,
-    "timeDay": 2719,
-    "timeWeek": 3165,
-    "timeMonth": 3260,
+    "timeDay": 2728,
+    "timeWeek": 3163,
+    "timeMonth": 3262,
     "timeYear": 2917,
     "dailyMinutesDown": {
-      "2024-08-17": 114,
+      "2024-08-17": 102,
       "2024-08-16": 175,
       "2024-08-15": 241,
       "2024-08-14": 302,
@@ -78,7 +78,7 @@
       "2024-07-31": 335,
       "2024-07-30": 241,
       "2024-07-29": 825,
-      "2024-07-28": 198
+      "2024-07-28": 221
     }
   },
   {
