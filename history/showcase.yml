@@ -1,7 +1,7 @@
 url: https://showcase.bgord.me/healthcheck
-status: down
-code: 500
-responseTime: 956
-lastUpdated: 2024-09-04T23:13:07.561Z
+status: up
+code: 200
+responseTime: 2783
+lastUpdated: 2024-09-04T23:27:26.576Z
 startTime: 2024-04-16T11:17:26.412Z
 generator: Upptime <https://github.com/upptime/upptime>
