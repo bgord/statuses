@@ -48,18 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.bgord.me.ico",
     "slug": "showcase",
     "status": "up",
-    "uptime": "95.08%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "95.08%",
+    "uptime": "95.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "95.02%",
     "time": 2861,
     "timeDay": 1977,
     "timeWeek": 2224,
-    "timeMonth": 2372,
+    "timeMonth": 2369,
     "timeYear": 2861,
     "dailyMinutesDown": {
-      "2024-09-16": 11,
       "2024-09-03": 1407,
       "2024-09-02": 47,
       "2024-08-21": 1405,
@@ -83,7 +82,8 @@
       "2024-08-01": 109,
       "2024-07-31": 335,
       "2024-07-30": 241,
-      "2024-07-29": 699
+      "2024-07-29": 825,
+      "2024-07-28": 11
     }
   },
   {
