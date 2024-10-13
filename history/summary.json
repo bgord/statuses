@@ -4,9 +4,9 @@
     "url": "https://raok.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/raok.bgord.me.ico",
     "slug": "raok",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
@@ -16,6 +16,7 @@
     "timeMonth": 1340,
     "timeYear": 2133,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-07-24": 15,
       "2024-07-12": 84,
       "2024-06-17": 22,
@@ -47,18 +48,19 @@
     "url": "https://showcase.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.bgord.me.ico",
     "slug": "showcase",
-    "status": "up",
-    "uptime": "95.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.80%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "95.79%",
+    "uptimeYear": "95.80%",
     "time": 2795,
     "timeDay": 850,
     "timeWeek": 815,
     "timeMonth": 1478,
     "timeYear": 2795,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-09-17": 16,
       "2024-09-03": 1407,
       "2024-09-02": 47,
@@ -83,7 +85,7 @@
       "2024-08-01": 109,
       "2024-07-31": 335,
       "2024-07-30": 241,
-      "2024-07-29": 699
+      "2024-07-29": 670
     }
   },
   {
@@ -91,9 +93,9 @@
     "url": "https://trackers.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/trackers.bgord.me.ico",
     "slug": "trackers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
@@ -103,6 +105,7 @@
     "timeMonth": 1148,
     "timeYear": 2149,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-07-12": 83,
       "2024-05-17": 60,
       "2024-04-05": 18,
@@ -122,9 +125,9 @@
     "url": "https://lobbygow.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/lobbygow.bgord.me.ico",
     "slug": "lobbygow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.28%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -134,6 +137,7 @@
     "timeMonth": 982,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-10-12": 25,
       "2024-07-12": 83,
       "2024-05-17": 63,
@@ -145,9 +149,9 @@
     "url": "https://cordian.bgord.me",
     "icon": "https://icons.duckduckgo.com/ip3/cordian.bgord.me.ico",
     "slug": "cordian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -157,6 +161,7 @@
     "timeMonth": 718,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-07-12": 82
     }
   }
