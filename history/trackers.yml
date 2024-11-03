@@ -1,7 +1,7 @@
 url: https://trackers.bgord.me/healthcheck
 status: up
-code: 200
-responseTime: 1110
-lastUpdated: 2024-11-02T23:14:51.353Z
+code: 429
+responseTime: 1022
+lastUpdated: 2024-11-03T23:14:17.009Z
 startTime: 2023-11-21T22:07:35.915Z
 generator: Upptime <https://github.com/upptime/upptime>
