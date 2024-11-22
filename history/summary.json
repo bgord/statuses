@@ -14,7 +14,7 @@
     "timeDay": 644,
     "timeWeek": 843,
     "timeMonth": 1091,
-    "timeYear": 2041,
+    "timeYear": 2034,
     "dailyMinutesDown": {
       "2024-10-27": 820,
       "2024-10-13": 708,
@@ -47,18 +47,19 @@
     "url": "https://showcase.bgord.me/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.bgord.me.ico",
     "slug": "showcase",
-    "status": "up",
-    "uptime": "96.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.15%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.17%",
-    "uptimeYear": "96.12%",
-    "time": 2682,
-    "timeDay": 801,
-    "timeWeek": 904,
-    "timeMonth": 750,
-    "timeYear": 2694,
+    "uptimeYear": "96.15%",
+    "time": 2680,
+    "timeDay": 743,
+    "timeWeek": 877,
+    "timeMonth": 748,
+    "timeYear": 2690,
     "dailyMinutesDown": {
+      "2024-11-22": 0,
       "2024-10-27": 802,
       "2024-10-13": 708,
       "2024-09-17": 16,
@@ -85,7 +86,7 @@
       "2024-08-01": 109,
       "2024-07-31": 335,
       "2024-07-30": 241,
-      "2024-07-29": 586
+      "2024-07-29": 535
     }
   },
   {
@@ -103,7 +104,7 @@
     "timeDay": 799,
     "timeWeek": 791,
     "timeMonth": 800,
-    "timeYear": 2019,
+    "timeYear": 2012,
     "dailyMinutesDown": {
       "2024-10-27": 802,
       "2024-10-13": 708,
