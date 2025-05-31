@@ -3,25 +3,7 @@ repo: statuses
 
 sites:
   - name: RAOK
-    url: https://raok.bgord.me/healthcheck
-    method: "GET"
-    headers:
-      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
-    expectedStatusCodes:
-      - 200
-      - 429
-
-  - name: SHOWCASE
-    url: https://showcase.bgord.me/healthcheck
-    method: "GET"
-    headers:
-      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
-    expectedStatusCodes:
-      - 200
-      - 429
-
-  - name: TRACKERS
-    url: https://trackers.bgord.me/healthcheck
+    url: https://raok.bgord.dev/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
@@ -30,17 +12,10 @@ sites:
       - 429
       
   - name: LOBBYGOW
-    url: https://lobbygow.bgord.me/healthcheck
+    url: https://lobbygow.bgord.dev/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
-    expectedStatusCodes:
-      - 200
-      - 429
-
-  - name: CORDIAN
-    url: https://cordian.bgord.me
-    method: "GET"
     expectedStatusCodes:
       - 200
       - 429
