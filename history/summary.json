@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/raok.bgord.dev.ico",
     "slug": "raok",
     "status": "up",
-    "uptime": "83.74%",
+    "uptime": "83.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "69.90%",
     "time": 1214,
-    "timeDay": 2322,
-    "timeWeek": 1276,
-    "timeMonth": 1124,
-    "timeYear": 939,
+    "timeDay": 577,
+    "timeWeek": 1275,
+    "timeMonth": 1126,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2025-09-26": 26,
       "2025-08-02": 600,
@@ -128,8 +128,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 886,
-      "2024-10-27": 820,
-      "2024-10-13": 708
+      "2024-10-27": 820
     }
   },
   {
@@ -138,16 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lobbygow.bgord.dev.ico",
     "slug": "lobbygow",
     "status": "up",
-    "uptime": "82.08%",
+    "uptime": "82.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "69.86%",
-    "time": 867,
-    "timeDay": 500,
-    "timeWeek": 1828,
-    "timeMonth": 1694,
-    "timeYear": 808,
+    "uptimeYear": "69.87%",
+    "time": 866,
+    "timeDay": 642,
+    "timeWeek": 1843,
+    "timeMonth": 1665,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-09-26": 68,
       "2025-08-24": 32,
@@ -262,8 +261,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 884,
-      "2024-10-27": 802,
-      "2024-10-13": 708
+      "2024-10-27": 802
     }
   }
 ]
