@@ -11,6 +11,15 @@ sites:
       - 200
       - 429
       
+  - name: JOURNAL
+    url: https://journal.bgord.dev/healthcheck
+    method: "GET"
+    headers:
+      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
+    expectedStatusCodes:
+      - 200
+      - 429
+      
   - name: LOBBYGOW
     url: https://lobbygow.bgord.dev/healthcheck
     method: "GET"
