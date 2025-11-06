@@ -135,19 +135,19 @@
     "url": "https://journal.bgord.dev/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/journal.bgord.dev.ico",
     "slug": "journal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 726,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 882,
+    "timeDay": 926,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-11-06": 0
+      "2025-11-06": 26
     }
   },
   {
