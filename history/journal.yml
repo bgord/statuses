@@ -1,7 +1,7 @@
 url: https://journal.bgord.dev/api/healthcheck
 status: up
-code: 200
-responseTime: 1782
-lastUpdated: 2025-11-23T23:14:15.827Z
+code: 429
+responseTime: 677
+lastUpdated: 2025-11-24T23:14:37.270Z
 startTime: 2025-11-02T22:22:59.098Z
 generator: Upptime <https://github.com/upptime/upptime>
