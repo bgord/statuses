@@ -1,7 +1,7 @@
 url: https://lobbygow.bgord.dev/api/healthcheck
 status: up
-code: 429
-responseTime: 465
-lastUpdated: 2026-03-07T23:18:01.017Z
+code: 200
+responseTime: 1684
+lastUpdated: 2026-03-08T23:19:06.223Z
 startTime: 2024-02-05T12:01:37.687Z
 generator: Upptime <https://github.com/upptime/upptime>
