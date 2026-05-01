@@ -10,8 +10,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 429
-      
-  - name: JOURNAL
+
+  - name: Journal
     url: https://journal.bgord.dev/api/healthcheck
     method: "GET"
     headers:
@@ -19,9 +19,27 @@ sites:
     expectedStatusCodes:
       - 200
       - 429
-      
-  - name: LOBBYGOW
+
+  - name: lobbygow
     url: https://lobbygow.bgord.dev/api/healthcheck
+    method: "GET"
+    headers:
+      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
+    expectedStatusCodes:
+      - 200
+      - 429
+
+  - name: SHOWCASE
+    url: https://showcase.bgord.dev/api/healthcheck
+    method: "GET"
+    headers:
+      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
+    expectedStatusCodes:
+      - 200
+      - 429
+
+  - name: panopticon
+    url: https://panopticon.bgord.dev/api/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
