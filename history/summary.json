@@ -4,16 +4,16 @@
     "url": "https://raok.bgord.dev/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/raok.bgord.dev.ico",
     "slug": "raok",
-    "status": "up",
-    "uptime": "86.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "86.41%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "95.52%",
     "time": 1358,
     "timeDay": 1977,
     "timeWeek": 2186,
-    "timeMonth": 2151,
+    "timeMonth": 2144,
     "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-05-31": 839,
@@ -42,7 +42,8 @@
       "2026-04-20": 934,
       "2026-05-04": 609,
       "2026-05-03": 1440,
-      "2026-05-02": 533
+      "2026-05-02": 533,
+      "2026-05-28": 2
     }
   },
   {
@@ -50,12 +51,12 @@
     "url": "https://journal.bgord.dev/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/journal.bgord.dev.ico",
     "slug": "journal",
-    "status": "up",
-    "uptime": "97.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "97.43%",
+    "status": "down",
+    "uptime": "97.44%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "97.44%",
     "time": 1325,
     "timeDay": 1574,
     "timeWeek": 1677,
@@ -78,7 +79,8 @@
       "2026-04-02": 886,
       "2026-05-04": 609,
       "2026-05-03": 1440,
-      "2026-05-02": 533
+      "2026-05-02": 533,
+      "2026-05-28": 1
     }
   },
   {
@@ -86,12 +88,12 @@
     "url": "https://lobbygow.bgord.dev/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/lobbygow.bgord.dev.ico",
     "slug": "lobbygow",
-    "status": "up",
-    "uptime": "86.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "86.31%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "97.39%",
+    "uptimeYear": "97.51%",
     "time": 1208,
     "timeDay": 1448,
     "timeWeek": 1576,
@@ -118,7 +120,8 @@
       "2026-04-02": 885,
       "2026-05-04": 609,
       "2026-05-03": 1440,
-      "2026-05-02": 532
+      "2026-05-02": 532,
+      "2026-05-28": 1
     }
   },
   {
@@ -126,13 +129,13 @@
     "url": "https://showcase.bgord.dev/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.bgord.dev.ico",
     "slug": "showcase",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "80.14%",
-    "time": 1036,
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "81.99%",
+    "time": 1041,
     "timeDay": 1603,
     "timeWeek": 1618,
     "timeMonth": 1603,
@@ -143,7 +146,8 @@
       "2025-05-29": 1440,
       "2026-05-04": 609,
       "2026-05-03": 1440,
-      "2026-05-02": 532
+      "2026-05-02": 532,
+      "2026-05-28": 1
     }
   },
   {
@@ -151,12 +155,12 @@
     "url": "https://panopticon.bgord.dev/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/panopticon.bgord.dev.ico",
     "slug": "panopticon",
-    "status": "up",
-    "uptime": "93.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.37%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "93.27%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "93.37%",
     "time": 1602,
     "timeDay": 1499,
     "timeWeek": 1615,
@@ -165,7 +169,8 @@
     "dailyMinutesDown": {
       "2026-05-04": 609,
       "2026-05-03": 1440,
-      "2026-05-02": 531
+      "2026-05-02": 531,
+      "2026-05-28": 0
     }
   }
 ]
