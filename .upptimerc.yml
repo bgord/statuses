@@ -3,7 +3,7 @@ repo: statuses
 
 sites:
   - name: RAOK
-    url: https://raok.bgord.dev/healthcheck
+    url: https://raok.bgord.space/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
@@ -12,7 +12,7 @@ sites:
       - 429
 
   - name: Journal
-    url: https://journal.bgord.dev/api/healthcheck
+    url: https://journal.bgord.space/api/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
@@ -21,7 +21,7 @@ sites:
       - 429
 
   - name: lobbygow
-    url: https://lobbygow.bgord.dev/api/healthcheck
+    url: https://lobbygow.bgord.space/api/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
@@ -30,7 +30,7 @@ sites:
       - 429
 
   - name: SHOWCASE
-    url: https://showcase.bgord.dev/api/healthcheck
+    url: https://showcase.bgord.space/api/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
@@ -39,7 +39,16 @@ sites:
       - 429
 
   - name: panopticon
-    url: https://panopticon.bgord.dev/api/healthcheck
+    url: https://panopticon.bgord.space/api/healthcheck
+    method: "GET"
+    headers:
+      - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
+    expectedStatusCodes:
+      - 200
+      - 429
+
+  - name: workouts
+    url: https://workouts.bgord.space/api/healthcheck
     method: "GET"
     headers:
       - "Authorization: Basic $GH_BASIC_AUTH_SECRET"
