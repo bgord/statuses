@@ -1,7 +1,7 @@
 url: https://panopticon.bgord.space/api/healthcheck
-status: up
-code: 200
-responseTime: 1641
-lastUpdated: 2026-11-09T02:19:20.377Z
+status: down
+code: 502
+responseTime: 567
+lastUpdated: 2026-11-09T21:16:46.254Z
 startTime: 2026-05-01T10:57:47.909Z
 generator: Upptime <https://github.com/upptime/upptime>
